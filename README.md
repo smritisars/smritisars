@@ -30,7 +30,7 @@ Currently building projects in **asset management, portfolio analytics, and fina
 
 ## 📂 Featured Projects
 
-### [📊 Portfolio Tracker & Analytics Dashboard](https://github.com/averoy-sar/portfolio-tracker)
+### [📊 Portfolio Tracker & Analytics Dashboard](https://github.com/smritisars/portfolio-tracker)
 Python-based tool for tracking portfolio performance, calculating risk metrics, and visualizing asset allocation.  
 **Tech:** Python, Pandas, yFinance, Matplotlib  
 **Features:** Returns, volatility, Sharpe ratio, allocation charts, CSV export
