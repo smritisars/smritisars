@@ -22,7 +22,7 @@ Currently building projects in **asset management, portfolio analytics, and fina
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn]((https://www.linkedin.com/in/smriti-saraswat-a0b9b6142/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-saraswat-a0b9b6142/)
 
 ---
 
