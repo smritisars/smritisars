@@ -3,7 +3,7 @@
 🚀 Aspiring Financial Data Engineer | Portfolio & Asset Management Enthusiast | Automation & Quant Trading  
 I create tools for **finance, trading, and data automation** — from portfolio trackers to risk analytics — turning raw data into decisions.  
 Currently building projects in **asset management, portfolio analytics, and financial data pipelines** to showcase on my GitHub.
-
+Proficient in Languages : C++, Python, R
 ---
 
 ## 🔧 Skills & Tools
