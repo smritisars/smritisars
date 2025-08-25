@@ -35,3 +35,8 @@ Proficient in Languages : C++, Python, R
 Python-based tool for tracking portfolio performance, calculating risk metrics, and visualizing asset allocation.  
 **Tech:** Python, Pandas, yFinance, Matplotlib  
 **Features:** Returns, volatility, Sharpe ratio, allocation charts, CSV export
+
+### [📊 Multi-Factor-Equity-Strategy](https://github.com/smritisars/Multi-Factor-Equity-Strategy)
+Equity strategy that combines traditional Fama-French factors with sentiment analysis and earnings transcripts.
+**Tech:** pandas, numpy, yfinance, alphalens, pyfolio
+**Features:** Yahoo Finance, FRED, Quandl, Alpha Architect
