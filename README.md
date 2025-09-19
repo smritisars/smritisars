@@ -36,6 +36,11 @@ Python-based tool for tracking portfolio performance, calculating risk metrics, 
 **Tech:** Python, Pandas, yFinance, Matplotlib  
 **Features:** Returns, volatility, Sharpe ratio, allocation charts, CSV export
 
+### [📊 Yield Curve Analyzer](https://github.com/smritisars/Yield-Curve-Analyzer)
+C++ based yield curve analysis project using real live data from the US Federal Reserve H.15 Selected Interest Rates.
+**Tech:** C++, CMake, GitHub Actions, Federal Reserve H.15 data, JSON export, Web  
+**Features:** C++, CMake, GitHub Actions, Federal Reserve H.15 data, JSON export, Web
+
 ### [📊 Multi-Factor-Equity-Strategy](https://github.com/smritisars/Multi-Factor-Equity-Strategy)
 Equity strategy that combines traditional Fama-French factors with sentiment analysis and earnings transcripts.
 **Tech:** pandas, numpy, yfinance, alphalens, pyfolio
