@@ -1,8 +1,8 @@
 ## Hi there 👋 I am smriti saraswat, an engineer turned economist. 
 
-🚀 Aspiring Financial Data Engineer | Portfolio & Asset Management Enthusiast | Automation & Quant Trading  
 I create tools for **finance, trading, and data automation** — from portfolio trackers to risk analytics — turning raw data into decisions.  
 Currently building projects in **asset management, portfolio analytics, and financial data pipelines** to showcase on my GitHub.
+Currently in VibeCoder phase. Learning economics while utilising coding skills.
 
 Proficient in Languages : C++, Python, R
 ---
