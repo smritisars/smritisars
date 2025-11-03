@@ -42,9 +42,9 @@ C++ based yield curve analysis project using real live data from the US Federal 
 **Features:** C++, CMake, GitHub Actions, Federal Reserve H.15 data, JSON export, Web
 
 ### [📊 Credit Risk Analyzer](https://github.com/smritisars/Credit_Risk_Analyzer)
-Python-based machine learning models (Logistic Regression, Random Forest, XG-Boost) for credit risk prediction.
-**Tech:** C++, CMake, GitHub Actions, Federal Reserve H.15 data, JSON export, Web  
-**Features:** C++, CMake, GitHub Actions, Federal Reserve H.15 data, JSON export, Web
+Python-based machine learning models for credit risk prediction.
+**Tech:** Python, CSS, HTML, Javascript, Streamlit
+**Features:** Multiple ML models (Logistic Regression, Random Forest, XGBoost), Expected Loss calculation (PD × LGD × EAD) , Approval recommendation
 
 ### [📊 Multi-Factor-Equity-Strategy](https://github.com/smritisars/Multi-Factor-Equity-Strategy)
 Equity strategy that combines traditional Fama-French factors with sentiment analysis and earnings transcripts.
